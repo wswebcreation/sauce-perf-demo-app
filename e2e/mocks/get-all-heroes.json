@@ -4,217 +4,217 @@
   "name": "get all heroes",
   "isArray": true,
   "responses": {
-    "rtc-heroes": {
+    "saucelabs-bots": {
       "default": true,
       "status": 200,
       "headers": {},
       "data": [
         {
           "id": 10,
-          "name": "Angie Jones",
+          "name": "Sauce Bot",
           "alterEgo": "",
           "likes": 4332,
           "default": true
         },
         {
           "id": 11,
-          "name": "Emily Brache",
+          "name": "Rocket Sauce Bot",
           "alterEgo": "",
           "likes": 3221,
           "default": true
         },
         {
           "id": 12,
-          "name": "Maria Kedemo",
+          "name": "Nerdy Sauce Bot",
           "alterEgo": "",
           "likes": 3212,
           "default": true
         },
         {
           "id": 13,
-          "name": "Laurent Bossavit",
+          "name": "Trophy Sauce Bot",
           "alterEgo": "",
           "likes": 7353,
           "default": true
         },
         {
           "id": 14,
-          "name": "Alexandra Schladebeck",
+          "name": "Stretching Sauce Bot",
           "alterEgo": "",
           "likes": 3289,
           "default": true
         },
         {
           "id": 15,
-          "name": "Michael Wansley",
+          "name": "Dr. Sauce Bot",
           "alterEgo": "",
           "likes": 4833,
           "default": true
         },
         {
           "id": 16,
-          "name": "Dawid Pacia",
+          "name": "Manual Bot",
           "alterEgo": "",
           "likes": 5432,
           "default": true
         },
         {
           "id": 17,
-          "name": "Tony Bruce",
+          "name": "QA Bot",
           "alterEgo": "",
           "likes": 8334,
           "default": true
         },
         {
           "id": 18,
-          "name": "Sharath Byregowda",
+          "name": "SDET Bot",
           "alterEgo": "",
           "likes": 5663,
           "default": true
         },
         {
           "id": 19,
-          "name": "Beren van Daele",
+          "name": "Mobile Developer Bot",
           "alterEgo": "",
           "likes": 4887,
           "default": true
         },
         {
           "id": 20,
-          "name": "Bas Dijkstra",
+          "name": "Infosec Bot",
           "alterEgo": "",
           "likes": 4662,
           "default": true
         },
         {
           "id": 21,
-          "name": "Richard Bradshaw",
+          "name": "Beer Bot",
           "alterEgo": "",
           "likes": 4321,
           "default": true
         },
         {
           "id": 22,
-          "name": "Mark Winteringham",
+          "name": "Biking Bot",
           "alterEgo": "",
           "likes": 6742,
           "default": true
         },
         {
           "id": 23,
-          "name": "Santhosh Tuppad Enache",
+          "name": "Bowling Bot",
           "alterEgo": "",
           "likes": 5698,
           "default": true
         },
         {
           "id": 24,
-          "name": "Teemu Vesala",
+          "name": "Burger Bot",
           "alterEgo": "",
           "likes": 2289,
           "default": true
         },
         {
           "id": 25,
-          "name": "Jim Holmes",
+          "name": "Cat Bot",
           "alterEgo": "",
           "likes": 4983,
           "default": true
         },
         {
           "id": 26,
-          "name": "Tobias Geyer",
+          "name": "Coding Bot",
           "alterEgo": "",
           "likes": 3243,
           "default": true
         },
         {
           "id": 27,
-          "name": "Maik Nogens",
+          "name": "Coffee Dog Bot",
           "alterEgo": "",
           "likes": 3990,
           "default": true
         },
         {
           "id": 28,
-          "name": "Wim Selles",
+          "name": "DJ Bot",
           "alterEgo": "",
           "likes": 9832,
           "default": true
         },
         {
           "id": 29,
-          "name": "Mischa Dasberg",
+          "name": "Female Bot",
           "alterEgo": "",
           "likes": 9721,
           "default": true
         },
         {
           "id": 30,
-          "name": "Viktor Slavchev",
+          "name": "Flower Bot",
           "alterEgo": "",
           "likes": 2339,
           "default": true
         },
         {
           "id": 31,
-          "name": "Vera Gehlen-Baum",
+          "name": "Gaming Bot",
           "alterEgo": "",
           "likes": 4439,
           "default": true
         },
         {
           "id": 32,
-          "name": "Bartosz Szulc",
+          "name": "Guitar Bot",
           "alterEgo": "",
           "likes": 4332,
           "default": true
         },
         {
           "id": 33,
-          "name": "Göran Kero",
+          "name": "Hipster Bot",
           "alterEgo": "",
           "likes": 7883,
           "default": true
         },
         {
           "id": 34,
-          "name": "Nicola Owen",
+          "name": "San Francisco Giants Bot",
           "alterEgo": "",
           "likes": 3211,
           "default": true
         },
         {
           "id": 35,
-          "name": "Kevin Harris",
+          "name": "Skating Bot",
           "alterEgo": "",
           "likes": 4093,
           "default": true
         },
         {
           "id": 36,
-          "name": "Ard Kramer",
+          "name": "Skiing Bot",
           "alterEgo": "",
           "likes": 8321,
           "default": true
         },
         {
           "id": 37,
-          "name": "Simon Berner",
+          "name": "Space Bot",
           "alterEgo": "",
           "likes": 4920,
           "default": true
         },
         {
           "id": 38,
-          "name": "Ariciuc Trufin-Razvan",
+          "name": "Speedo Bot",
           "alterEgo": "",
           "likes": 5320,
           "default": true
         },
         {
           "id": 39,
-          "name": "Bria Grangard",
+          "name": "Test All The Things Flag Bot",
           "alterEgo": "",
           "likes": 4098,
           "default": true
