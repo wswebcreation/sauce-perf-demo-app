@@ -2,7 +2,8 @@
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 * {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Ropa Sans', sans-serif;
+  color: #474c55;
 }
 
 body {
@@ -18,6 +19,17 @@ a, .cp {
 }
 
 .mat-dialog-container {
-  background: #323232;
+  background: #e2231a;
+}
+
+.mat-dialog-content {
   color: #FFFFFF;
+}
+
+.mat-simple-snackbar{
+  color: #FFFFFF;
+}
+
+.mat-simple-snackbar-action{
+  color: #e2231a;
 }
